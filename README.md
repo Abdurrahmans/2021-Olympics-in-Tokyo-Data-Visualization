@@ -1,4 +1,4 @@
-https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
+
 # 2021-Olympics-in-Tokyo-Data-Visualization
 Details
 This contains the details of over 11,000 athletes, with 47 disciplines, along with 743 Teams taking part in the 2021(2020) Tokyo Olympics.
